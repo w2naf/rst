@@ -7,7 +7,7 @@
 #                                                                   #
 #####################################################################
 
-export XPATH="/usr/X11R6"
+export XPATH="/usr/include/X11"
 
 # Compile netCDF software
 
